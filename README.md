@@ -1,35 +1,44 @@
-<h1 align="center">
-💙 Filipe Augusto
-</h1>
+# 🚀 Project Artemis
 
-<h3 align="center">
-Software Engineering Student
-</h3>
+Project Artemis is an Artificial Intelligence platform developed to explore modern AI technologies, automation, and intelligent software solutions.
 
-<p align="center">
-Python • Backend • AI • Flutter
-</p>
+## ✨ Features
 
----
+- AI-powered conversations
+- API Integration
+- Backend Architecture
+- Automation
+- Modular Design
+- Database Support
 
-## 🚀 Tecnologias
+## 🛠️ Technologies
 
 - Python
 - FastAPI
-- Flutter
+- SQLite
 - Git
-- SQL
+- REST API
 
----
+## 📂 Project Structure
 
-## 📚 Atualmente estudando
+```
+project-artemis/
+│
+├── app/
+├── models/
+├── services/
+├── database/
+├── routes/
+├── utils/
+├── tests/
+├── requirements.txt
+└── README.md
+```
 
-- Inteligência Artificial
-- Backend
-- Engenharia de Software
+## 🎯 Goal
 
----
+Build scalable AI applications using modern software engineering practices.
 
-## 📫 Contato
+## 📄 License
 
-LinkedIn:
+MIT
