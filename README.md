@@ -1,76 +1,35 @@
-# artemis-ai
-Enterprise AI platform built with Python, FastAPI and modern LLM technologies.
-# 🚀 Artemis
+<h1 align="center">
+💙 Filipe Augusto
+</h1>
 
-> Enterprise AI Platform powered by Python, FastAPI and Large Language Models.
+<h3 align="center">
+Software Engineering Student
+</h3>
 
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi)
-![License](https://img.shields.io/badge/License-MIT-green)
-
----
-
-## 📖 About
-
-Artemis is an enterprise artificial intelligence platform focused on business automation, conversational AI, document analysis and intelligent agents.
-
-This project is being developed from scratch using modern software engineering practices.
+<p align="center">
+Python • Backend • AI • Flutter
+</p>
 
 ---
 
-## ✨ Features
-
-- 🤖 AI Chat
-- 🧠 Memory
-- 📄 Document Analysis
-- 🔍 RAG
-- 🤖 AI Agents
-- 📊 Dashboard
-- 🔐 Authentication
-- 🌐 REST API
-
----
-
-## 🛠 Tech Stack
+## 🚀 Tecnologias
 
 - Python
 - FastAPI
-- PostgreSQL
-- Docker
-- Redis
-- OpenAI API
-- GitHub Actions
+- Flutter
+- Git
+- SQL
 
 ---
 
-## 📂 Project Structure
+## 📚 Atualmente estudando
 
-```
-artemis/
-│
-├── backend/
-├── frontend/
-├── docs/
-├── tests/
-├── docker/
-└── README.md
-```
+- Inteligência Artificial
+- Backend
+- Engenharia de Software
 
 ---
 
-## 📅 Roadmap
+## 📫 Contato
 
-- [x] Create repository
-- [ ] Backend API
-- [ ] Authentication
-- [ ] AI Chat
-- [ ] RAG
-- [ ] AI Agents
-- [ ] Dashboard
-- [ ] Cloud Deployment
-
----
-
-## 👨‍💻 Author
-
-Developed by **Filipe Augusto**
+LinkedIn:
